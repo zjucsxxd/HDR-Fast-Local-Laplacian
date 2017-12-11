@@ -4,6 +4,7 @@ HDR recovering and tonemapping using fast local laplacian approach
 HDR recovering
 paper
 http://www.pauldebevec.com/Research/HDR/debevec-siggraph97.pdf
+
 implementation
 http://cybertron.cg.tu-berlin.de/eitz/hdr/#downloads
 
